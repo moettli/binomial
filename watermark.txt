@@ -1,0 +1,7 @@
+%load_ext watermark
+
+%watermark -v -m -p wget,pandas,numpy,geopy,altair,vega_datasets,watermark,matplotlib,xlrd,openpyxl,xlsxwriter
+
+# date
+print(" ")
+%watermark -u -n -t -z
