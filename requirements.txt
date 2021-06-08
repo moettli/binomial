@@ -1,6 +1,4 @@
-pandas==1.0.5
-watermark==2.2.0
-openpyxl==3.0.4
-numpy==1.18.5
-pycryptodomex==3.10.1
-sympy==1.6.1
+numpy==1.20.1
+matplotlib==3.3.4
+scipy==1.6.2
+tabulate==0.8.9
