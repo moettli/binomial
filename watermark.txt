@@ -1,6 +1,6 @@
 %load_ext watermark
 
-%watermark -v -m -p wget,pandas,numpy,geopy,altair,vega_datasets,watermark,matplotlib,xlrd,openpyxl,xlsxwriter
+%watermark -v -m -p time,scipy,tabulate,,numpy,matplotlib
 
 # date
 print(" ")
