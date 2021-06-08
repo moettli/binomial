@@ -1,0 +1,6 @@
+pandas==1.0.5
+watermark==2.2.0
+openpyxl==3.0.4
+numpy==1.18.5
+pycryptodomex==3.10.1
+sympy==1.6.1
